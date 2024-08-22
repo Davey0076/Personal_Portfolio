@@ -187,7 +187,7 @@ section {
 
 .skills_list {
   display: flex;
-  gap: 1rem;
+  gap: 1.7rem;
 }
 
 .section__text__p1 {
